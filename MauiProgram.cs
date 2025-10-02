@@ -16,6 +16,7 @@ namespace Problem_Analysis_Mini_Project
                 });
 
 #if DEBUG
+            builder.Logging.SetMinimumLevel(LogLevel.Debug);
     		builder.Logging.AddDebug();
 #endif
 
