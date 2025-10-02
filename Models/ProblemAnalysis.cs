@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Collections.Generic;
 using System.Text.Json;
 
-namespace Problem_Analysis_Mini_Project.Core.Models
+namespace Problem_Analysis_Mini_Project.Models
 {
 
     public class ProblemAnalysis

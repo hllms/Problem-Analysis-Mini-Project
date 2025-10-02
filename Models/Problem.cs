@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Problem_Analysis_Mini_Project.Core.Models;
+using Problem_Analysis_Mini_Project.Models;
 using System.Text.Json;
 
 
-namespace Problem_Analysis_Mini_Project.Core.Models
+namespace Problem_Analysis_Mini_Project.Models
 {
 
 

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problem_Analysis_Mini_Project.Core.Models
+namespace Problem_Analysis_Mini_Project.Models
 {
 
     public class AlternateSolution
